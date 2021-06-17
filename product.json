@@ -1,0 +1,816 @@
+{
+    "products": [
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school13.jpeg",
+        "detail": "Physics Class 12th",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation1.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation2.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation3.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation4.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation5.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation6.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation7.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation8.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation9.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation10.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation11.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation12.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation13.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation14.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation15.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation16.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation17.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation18.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation19.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation20.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation21.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation22.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation23.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/preparation24.jpeg",
+        "category": "preparation"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school2.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school3.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school4.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school5.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school6.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school7.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school8.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school9.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school10.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school11.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "./images/stationary/books/school12.jpeg",
+        "category": "school"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit1.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit2.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit3.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit4.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit5.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit6.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit7.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit8.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit9.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit10.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit11.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit12.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit13.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit14.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "./images/stationary/books/lit15.jpeg",
+        "category": "literature"
+      },
+      {
+        "title": "BIBA",
+        "price": "1599",
+        "image": "./images/clothing/biba1.webp",
+        "category": "featured"
+      },
+      {
+        "title": "W for woman",
+        "price": "1999",
+        "image": "./images/clothing/w1.jpg",
+        "category": "featured"
+      },
+      {
+        "title": "HOPSCOTCH",
+        "price": "1498",
+        "image": "./images/clothing/hopscotch.jpg",
+        "category": "featured"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion1.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion2.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion3.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion5.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion6.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion7.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion8.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion9.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion10.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion11.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion12.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion13.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion14.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion15.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion16.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion17.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion18.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion19.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion20.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion21.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion22.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion23.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion24.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion25.jpeg",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "./images/stationary/books/religion4.jpeg",
+        "category": "trend"
+      },
+      
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio1.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio2.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio3.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio4.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio5.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio6.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio7.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio8.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio9.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio10.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio11.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio12.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio13.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio14.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio15.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio16.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio17.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio18.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio19.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/bio20.jpeg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction1.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction2.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction3.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction4.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction5.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction6.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction7.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction8.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction9.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction10.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction11.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction12.jpeg",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/books/fiction13.webp",
+        "category": "fiction"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport1.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport2.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport3.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport4.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport5.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport6.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport7.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport8.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport9.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/sport10.jpeg",
+        "category": "sport"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio1.webp",
+        "category": "cardio"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio2.webp",
+        "category": "cardio"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio3.webp",
+        "category": "cardio"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio4.webp",
+        "category": "cardio"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio5.webp",
+        "category": "cardio"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "cardio"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "grocery"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "wheat"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "spice"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "snack"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "beverage"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "baby"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/stationary/sports/cardio6.webp",
+        "category": "protein"
+      }
+    ]
+  }
