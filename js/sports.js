@@ -1,0 +1,128 @@
+let text = document.getElementById('text');
+let bird1 = document.getElementById('bird1');
+let bird2 = document.getElementById('bird2');
+let rocks = document.getElementById('rocks');
+let water = document.getElementById('water');
+
+window.addEventListener('scroll',function(){
+    let value = window.scrollY;
+
+    text.style.top = 50 + value * -0.1 + '%';
+    bird1.style.top = value * -0.5 + 'px';
+    bird1.style.left = value * 0.5 + 'px';
+    bird2.style.top = value * -0.5 + 'px';
+    bird2.style.left = value * -1 + 'px';
+    rocks.style.top = value * -0.20 + 'px';
+});
+
+
+const getProducts = async () => {
+    const res = await fetch("./product.json");
+    const data = await res.json();
+    const products = data.products;
+    return products;
+  };
+  
+  // Display Product
+  const displayProducts = (products, center) => {
+    let display = products.map(
+      ({ title, image, detail, price }) => `<div class="product">
+            <div class="product-header">
+              <img src=${image} alt="product">
+            </div>
+            <div class="product-footer">
+              <h3>${title}</h3>
+              <div class="detail text-success">
+               <h4>${detail}</h4>
+             </div>
+              <div class="rating text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+              <div class="product-price">
+                <h6>&#8377 ${price}</h6>
+              </div>
+            </div>
+            <ul>
+              <li>
+                <a href="#">
+                <i class="fas fa-shopping-cart"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="far fa-heart"></i>
+                </a>
+              </li>
+              
+            </ul>
+          </div>`
+    );
+  
+    display = display.join("");
+    center.innerHTML = display;
+  };
+  
+  // Filtering
+  const catContainer = document.querySelector(".sort-category");
+  const filterBtns = [...document.querySelectorAll(".filter-btn")];
+  
+  if (catContainer) {
+    catContainer.addEventListener("click", async e => {
+      const target = e.target.closest(".section-title");
+      if (!target) return;
+      const id = target.dataset.id;
+      const products = await getProducts();
+  
+      if (id) {
+        filterBtns.forEach(btn => {
+          btn.classList.remove("active");
+        });
+        target.classList.add("active");
+        const menuCat = products.filter(product => product.category === id);
+        productCenter.classList.add("animate__animated", "animate__backInUp");
+        setTimeout(() => {
+          productCenter.classList.remove(
+            "animate__animated",
+            "animate__backInUp"
+          );
+        }, 1000);
+        displayProducts(menuCat, productCenter);
+      }
+    });
+  }
+  
+  const productCenter = document.querySelector(".product-center");
+  const cardioCenter = document.querySelector(".cardio-center");
+  const homeCenter = document.querySelector(".home-center");
+  const healthCenter = document.querySelector(".health-center");
+  const preparationCenter = document.querySelector(".preparation-center");
+  const GymCenter = document.querySelector(".Gym-center");
+  const shopCenter = document.querySelector(".shop-center");
+  
+  
+  const filterArray = async type => {
+    const products = await getProducts();
+    return products.filter(product => product.category === type);
+  };
+  
+  window.addEventListener("DOMContentLoaded", async () => {
+    const products = await getProducts();
+    const defaultProducts = await filterArray("sport");
+    const cardioProducts = await filterArray("cardio");
+    const homeProducts = await filterArray("home");
+    const healthProducts = await filterArray("health");
+    const preparationProducts = await filterArray("preparation");
+    const GymProducts = await filterArray("Gym");
+
+    displayProducts(defaultProducts, productCenter);
+    displayProducts(cardioProducts, cardioCenter);
+    displayProducts(homeProducts, homeCenter);
+    displayProducts(healthProducts, healthCenter);
+    displayProducts(preparationProducts, preparationCenter);
+    displayProducts(GymProducts, GymCenter);
+    displayProducts(products, shopCenter);
+  });

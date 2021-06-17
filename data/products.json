@@ -1,0 +1,124 @@
+{
+    "products": [
+      {
+        "title": "NYESA",
+        "price": "1546",
+        "image": "/images/clothing/nyesa.jpg",
+        "category": "featured"
+      },
+      {
+        "title": "SPARX",
+        "price": "999",
+        "image": "/images/clothing/shoe1.jpg",
+        "category": "featured"
+      },
+      {
+        "title": "BIBA",
+        "price": "1599",
+        "image": "/images/clothing/biba1.webp",
+        "category": "featured"
+      },
+      {
+        "title": "W for woman",
+        "price": "1999",
+        "image": "/images/clothing/w1.jpg",
+        "category": "featured"
+      },
+      {
+        "title": "HOPSCOTCH",
+        "price": "1498",
+        "image": "/images/clothing/hopscotch.jpg",
+        "category": "featured"
+      },
+      {
+        "title": "PUMA",
+        "price": "2299",
+        "image": "/images/clothing/pic15.png",
+        "category": "trend"
+      },
+      {
+        "title": "MIMOSA",
+        "price": "1736",
+        "image": "/images/clothing/mimosa.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "W for Woman",
+        "price": "1145",
+        "image": "/images/clothing/w2.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "BIBA",
+        "price": "1845",
+        "image": "/images/clothing/biba5.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "CROCS",
+        "price": "3,999",
+        "image": "/images/clothing/crocs2.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "CROCS",
+        "price": "1,330",
+        "image": "/images/clothing/crocs1.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "CROCS",
+        "price": "2,295",
+        "image": "/images/clothing/crocs.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "LAVIE",
+        "price": "987",
+        "image": "/images/clothing/lavie3.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "LAVIE",
+        "price": "1,099",
+        "image": "/images/clothing/lavie2.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "PARK AVENUE",
+        "price": "849",
+        "image": "/images/clothing/parkaavenue2.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "PARK AVENUE",
+        "price": "922",
+        "image": "/images/clothing/parKavenue.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "PARK AVENUE",
+        "price": "1,011",
+        "image": "/images/clothing/parkavenue1.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "/images/clothing/parkavenue1.jpg",
+        "category": "trend"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "/images/clothing/parkavenue1.jpg",
+        "category": "special"
+      },
+      {
+        "title": "Men Casual Shoe",
+        "price": "2000.99",
+        "image": "./images/pic1.png",
+        "category": "latest"
+      }
+    ]
+  }

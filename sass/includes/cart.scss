@@ -1,0 +1,37 @@
+#cart .row img{
+    width: 60%;
+    height: 85%;
+
+}
+#cart .row  .sub-total h3 i{
+    color: #229954;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+#cart .row  .sub-total h3{
+    color: #273746;
+}
+
+#cart .row  .sub-total{
+    font-family: $font-raleway;
+    font-weight: 900;
+}
+
+#cart .row  .sub-total .border-top{
+    justify-content: left;
+    text-align: left;
+    margin-left: 38px;
+}
+
+#cart .row  .sub-total .border-top h5{
+    font-family: $font-baloo;
+    font-size: 1.4rem;
+}
+
+#cart .row  .sub-total .border-top button{
+    border-radius: 10px;
+    width: 10em;
+    height: 35px;
+    font-weight: 900;
+}

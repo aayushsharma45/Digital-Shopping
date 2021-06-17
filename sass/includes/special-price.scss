@@ -1,0 +1,25 @@
+#special-price .grid .grid-item{
+    margin-right: 1.2rem;
+    margin-top: 1.2rem;
+} 
+#special-price .grid .grid-item img{
+    height: 143px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    transition: 0.5s ease;
+}
+#special-price .grid .grid-item img:hover{
+    transform: scale(1.1);
+}
+#special-price .grid .grid-item .product h6{
+    margin-top: 5px;
+}
+
+#special-price .container .btn {
+    transition: 0.1s ease;
+}
+#special-price .container .btn:hover{
+    transform: scale(1.1);
+}
+

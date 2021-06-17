@@ -1,0 +1,81 @@
+
+main .book-sect{
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow-x: hidden;
+}
+
+.book-sect img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+}
+
+
+
+section #text{
+    
+    position: absolute;
+    color: #094b65;
+    font-size: 10vw;
+    text-align: center;
+    line-height: 0.55em;
+    font-family: $font-rancho;
+    margin-top: -220px;
+    z-index: 0;
+}
+
+section #text span{
+    font-size: 0.20em;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-family: $font-raleway;
+}
+
+.section-book{
+    padding: 2rem 0rem;
+}
+
+.section-book .section-title .primary-title{
+    font-size: 1.2rem;
+}
+
+.section-book .product-center{
+    display: grid;
+    grid-template-columns:repeat(5, 1fr);
+    gap: 1rem;
+}
+
+.section-book .product-center .product-header{
+    height: 21rem;
+}
+
+.section-book .product-center .product-header img{
+    width: 215px;
+}
+
+.section-book .product-center .product-footer h3{
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: $color-grey;
+} 
+
+.section-book .product-center .product-footer .detail h4{
+    font-size: 1rem;
+    color: black;
+    font-weight: 400;
+}
+
+.section-book .section-title span.dot{
+    border: 0px solid $color-black;
+    opacity: 0.3;
+    padding: 0.3rem
+}
